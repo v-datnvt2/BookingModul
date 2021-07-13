@@ -1,0 +1,1 @@
+SELECT fullName, position FROM tblUser WHERE username = 'datnvt' AND password = 'datnvt'
